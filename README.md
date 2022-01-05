@@ -2,7 +2,7 @@
 
 Natural language processing (NLP) and cluster analysis of hotel reviews.
 
-The dataset used for this project was the Hotel Reviews data provided by Datafiniti’s Business Database (Kaggle, 2019). 
+The dataset used for this project was the Hotel Reviews data provided by Datafiniti’s Business Database (Kaggle, 2019). https://github.com/melissaEYE/Text-Classification/blob/main/HotelReviews.csv
 
 The objective of the analysis was to use text mining and Natural Language Processing (NLP) methods to determine some insights into the reviews, as well as the sentiment (positive or negative) of patrons who stayed at the hotels, both on an overall level, but also at a specific province level for a few of the provinces in the dataset. More specifically, the purpose is to determine which hotels to recommend and which to avoid. 
 
